@@ -1,0 +1,3065 @@
+{
+  "economy": {
+    "42155489915095@lid": {
+      "wallet": 2496142979191,
+      "bank": 0,
+      "job": "programmer",
+      "lastWork": 1779048020695,
+      "lastRob": 1779111396565,
+      "lastInvest": 1778931271838,
+      "inventory": {
+        "ticket": 99,
+        "weed_seed": 100000,
+        "fertilizer": 0,
+        "keto_chem": 0,
+        "heroin_kit": 0
+      },
+      "level": 1,
+      "exp": 1125,
+      "completedMissions": [
+        "rob_success",
+        "invest_gain",
+        "daily_work"
+      ],
+      "stocks": {},
+      "businesses": {
+        "casino": 2,
+        "factory": 2
+      },
+      "lastMission": 1779014678588,
+      "lastSearch": 1779002850855,
+      "lastTask": 1779002857540,
+      "lastCollect": 1779048029837,
+      "lastPlant": 1779041469699,
+      "lastPrisonCheck": 0,
+      "drugInventory": {
+        "weed": 0,
+        "coke": 0,
+        "heroin": 0
+      },
+      "crops": {
+        "weed": 0,
+        "coke": 0,
+        "heroin": 1000000
+      },
+      "role": "dealer",
+      "jailRelease": 1779041351626,
+      "roleLevel": 1,
+      "roleExp": 0,
+      "drugStats": {
+        "seedsBought": 1274100,
+        "materialsBought": 0,
+        "grown": 1174101,
+        "harvested": 130432,
+        "sold": 111142,
+        "consumed": 5,
+        "busts": 0,
+        "arrests": 32,
+        "profit": 104933330,
+        "offersCreated": null
+      },
+      "businessSlots": 3,
+      "businessWallets": {
+        "casino": 1200,
+        "factory": 600
+      },
+      "lastBust": 0
+    },
+    "207426200563894@lid": {
+      "wallet": 824085110,
+      "bank": 0,
+      "job": "programmer",
+      "lastWork": 1779112034222,
+      "lastRob": 1778923325852,
+      "lastInvest": 0,
+      "inventory": {
+        "ticket": 0,
+        "weed_seed": 0,
+        "fertilizer": 0
+      },
+      "level": 1,
+      "exp": 205,
+      "completedMissions": [
+        "gamble_lucky",
+        "daily_work",
+        "invest_gain"
+      ],
+      "stocks": {},
+      "businesses": {},
+      "lastMission": 1779112025867,
+      "lastSearch": 0,
+      "lastTask": 0,
+      "lastCollect": 0,
+      "lastPlant": 1779025698091,
+      "lastPrisonCheck": 0,
+      "drugInventory": {
+        "heroin": 1,
+        "weed": 120
+      },
+      "crops": {
+        "weed": 100
+      },
+      "role": "citizen",
+      "drugStats": {
+        "seedsBought": 200,
+        "materialsBought": 0,
+        "grown": 200,
+        "harvested": 120,
+        "sold": 0,
+        "consumed": 0,
+        "busts": 0,
+        "arrests": 0,
+        "profit": 0
+      },
+      "jailRelease": 0,
+      "roleLevel": 1,
+      "roleExp": 0,
+      "lastBust": 0,
+      "businessSlots": 3,
+      "businessWallets": {}
+    },
+    "29871615004746@lid": {
+      "wallet": 526107107,
+      "bank": 0,
+      "job": "unemployed",
+      "lastWork": 0,
+      "lastRob": 0,
+      "lastInvest": 0,
+      "inventory": {
+        "ticket": 0
+      },
+      "level": 1,
+      "exp": 125,
+      "completedMissions": [
+        "daily_work",
+        "gamble_lucky"
+      ],
+      "stocks": {},
+      "businesses": {},
+      "lastMission": 1779018527160,
+      "lastSearch": 0,
+      "lastTask": 0,
+      "lastCollect": 0,
+      "lastPlant": 0,
+      "lastPrisonCheck": 0,
+      "drugInventory": {},
+      "crops": {},
+      "role": "citizen",
+      "jailRelease": 0,
+      "roleLevel": 1,
+      "roleExp": 0,
+      "drugStats": {
+        "seedsBought": 0,
+        "materialsBought": 0,
+        "grown": 0,
+        "harvested": 0,
+        "sold": 0,
+        "consumed": 0,
+        "busts": 0,
+        "arrests": 0,
+        "profit": 0
+      },
+      "lastBust": 0,
+      "businessSlots": 3,
+      "businessWallets": {}
+    },
+    "45329470767319@lid": {
+      "wallet": 1240,
+      "bank": 1000000000,
+      "job": "programmer",
+      "lastWork": 1779113860372,
+      "lastRob": 1779112053770,
+      "lastInvest": 0,
+      "inventory": {
+        "ticket": 20016,
+        "laptop": 1,
+        "weed_seed": 0,
+        "fertilizer": 0
+      },
+      "level": 1,
+      "exp": 835,
+      "completedMissions": [
+        "gamble_lucky",
+        "daily_work",
+        "invest_gain"
+      ],
+      "stocks": {},
+      "businesses": {
+        "shop": 1,
+        "casino": 1,
+        "car_dealer": 1
+      },
+      "lastMission": 1779113990564,
+      "lastSearch": 1779027465643,
+      "lastTask": 1779114009110,
+      "lastCollect": 1779114085197,
+      "lastPlant": 1779112136921,
+      "lastPrisonCheck": 0,
+      "drugInventory": {
+        "weed": 765148,
+        "heroin": 249
+      },
+      "crops": {
+        "weed": 0
+      },
+      "role": "grower",
+      "jailRelease": 0,
+      "roleLevel": 1,
+      "roleExp": 0,
+      "drugStats": {
+        "seedsBought": 510200,
+        "materialsBought": 0,
+        "grown": 510200,
+        "harvested": 765270,
+        "sold": 120,
+        "consumed": 3,
+        "busts": 0,
+        "arrests": 0,
+        "profit": 13797,
+        "bought": 200,
+        "spent": 200000
+      },
+      "lastBust": 1779024798079,
+      "businessSlots": 3,
+      "businessWallets": {
+        "shop": 60,
+        "casino": 300,
+        "car_dealer": 135
+      }
+    },
+    "46390277320772@lid": {
+      "wallet": 696,
+      "bank": 327347538.5,
+      "job": "programmer",
+      "lastWork": 1779045666925,
+      "lastRob": 1779111381202,
+      "lastInvest": 0,
+      "inventory": {
+        "ticket": 0
+      },
+      "level": 1,
+      "exp": 275,
+      "completedMissions": [
+        "rob_success",
+        "rob_success",
+        "gamble_lucky"
+      ],
+      "stocks": {},
+      "businesses": {},
+      "lastMission": 1779111441429,
+      "lastSearch": 0,
+      "lastTask": 0,
+      "lastCollect": 0,
+      "lastPlant": 0,
+      "lastPrisonCheck": 0,
+      "drugInventory": {},
+      "crops": {},
+      "role": "cop",
+      "jailRelease": 0,
+      "roleLevel": 1,
+      "roleExp": 0,
+      "drugStats": {
+        "seedsBought": 0,
+        "materialsBought": 0,
+        "grown": 0,
+        "harvested": 0,
+        "sold": 0,
+        "consumed": 0,
+        "busts": 1,
+        "arrests": 0,
+        "profit": 0
+      },
+      "businessSlots": 3,
+      "businessWallets": {},
+      "lastBust": 1779033040403
+    },
+    "76824382034126@lid": {
+      "wallet": 1000000,
+      "bank": 0,
+      "job": "unemployed",
+      "lastWork": 0,
+      "lastRob": 0,
+      "lastInvest": 0,
+      "lastSearch": 0,
+      "lastTask": 0,
+      "lastCollect": 0,
+      "lastBust": 0,
+      "lastPlant": 0,
+      "lastPrisonCheck": 0,
+      "inventory": {},
+      "drugInventory": {},
+      "crops": {},
+      "role": "citizen",
+      "drugStats": {
+        "seedsBought": 0,
+        "materialsBought": 0,
+        "grown": 0,
+        "harvested": 0,
+        "sold": 0,
+        "bought": 0,
+        "spent": 0,
+        "offersCreated": 0,
+        "offersCanceled": 0,
+        "consumed": 0,
+        "busts": 0,
+        "arrests": 0,
+        "profit": 0
+      },
+      "jailRelease": 0,
+      "roleLevel": 1,
+      "roleExp": 0,
+      "level": 1,
+      "exp": 0,
+      "completedMissions": [],
+      "stocks": {},
+      "businesses": {},
+      "businessSlots": 3,
+      "businessWallets": {},
+      "lastMission": 0
+    },
+    "219374296272983@lid": {
+      "wallet": 0,
+      "bank": 0,
+      "job": "unemployed",
+      "lastWork": 0,
+      "lastRob": 0,
+      "lastInvest": 0,
+      "inventory": {},
+      "level": 1,
+      "exp": 0,
+      "completedMissions": [],
+      "stocks": {},
+      "businesses": {},
+      "lastMission": 0
+    },
+    "241588185878616@lid": {
+      "wallet": 100000,
+      "bank": 0,
+      "job": "unemployed",
+      "lastWork": 0,
+      "lastRob": 0,
+      "lastInvest": 0,
+      "lastSearch": 0,
+      "lastTask": 0,
+      "lastCollect": 0,
+      "lastBust": 0,
+      "lastPlant": 0,
+      "lastPrisonCheck": 0,
+      "inventory": {},
+      "drugInventory": {},
+      "crops": {},
+      "role": "citizen",
+      "drugStats": {
+        "seedsBought": 0,
+        "materialsBought": 0,
+        "grown": 0,
+        "harvested": 0,
+        "sold": 0,
+        "bought": 0,
+        "spent": 0,
+        "offersCreated": 0,
+        "offersCanceled": 0,
+        "consumed": 0,
+        "busts": 0,
+        "arrests": 0,
+        "profit": 0
+      },
+      "jailRelease": 0,
+      "roleLevel": 1,
+      "roleExp": 0,
+      "level": 1,
+      "exp": 0,
+      "completedMissions": [],
+      "stocks": {},
+      "businesses": {},
+      "businessSlots": 3,
+      "businessWallets": {},
+      "lastMission": 0
+    },
+    "158613192573162@lid": {
+      "wallet": 4134,
+      "bank": 0,
+      "job": "guard",
+      "lastWork": 1778877160112,
+      "lastRob": 0,
+      "lastInvest": 0,
+      "inventory": {},
+      "level": 1,
+      "exp": 75,
+      "completedMissions": [
+        "gamble_lucky"
+      ],
+      "stocks": {},
+      "businesses": {},
+      "lastMission": 1778922575757
+    },
+    "275423938240589@lid": {
+      "wallet": 0,
+      "bank": 0,
+      "job": "unemployed",
+      "lastWork": 0
+    },
+    "69428364488911@lid": {
+      "wallet": 0,
+      "bank": 2714454331.5,
+      "job": "programmer",
+      "lastWork": 1779043404905,
+      "lastRob": 1779049338328,
+      "lastInvest": 0,
+      "inventory": {
+        "ticket": 20090,
+        "weed_seed": 101,
+        "keto_chem": 0,
+        "heroin_kit": 1000,
+        "fertilizer": 0,
+        "pet": 1
+      },
+      "level": 1,
+      "exp": 1180,
+      "completedMissions": [
+        "rob_success",
+        "invest_gain"
+      ],
+      "stocks": {},
+      "businesses": {
+        "casino": 5
+      },
+      "lastMission": 1779003720864,
+      "lastSearch": 1778956015411,
+      "lastTask": 1779043419430,
+      "lastCollect": 0,
+      "lastPlant": 1779023001411,
+      "lastPrisonCheck": 0,
+      "drugInventory": {
+        "weed": 250,
+        "heroin": 0
+      },
+      "crops": {
+        "weed": 1999,
+        "coke": 2001,
+        "heroin": 1
+      },
+      "role": "grower",
+      "jailRelease": 1778970508518,
+      "roleLevel": 1,
+      "roleExp": 0,
+      "drugStats": {
+        "seedsBought": 7100,
+        "materialsBought": 0,
+        "grown": 6000,
+        "harvested": 2376,
+        "sold": 1875,
+        "consumed": 1,
+        "busts": 0,
+        "arrests": 1,
+        "profit": 986739
+      },
+      "lastBust": 0,
+      "businessSlots": 3,
+      "businessWallets": {}
+    },
+    "4917648098961@s.whatsapp.net": {
+      "wallet": 0,
+      "bank": 0,
+      "job": "coder",
+      "lastWork": 0
+    },
+    "105364540416182@lid": {
+      "wallet": 9359848,
+      "bank": 0,
+      "job": "guard",
+      "lastWork": 1778956674866,
+      "lastRob": 1778966692987,
+      "lastInvest": 0,
+      "inventory": {
+        "ticket": 100010,
+        "laptop": 1,
+        "tool": 10,
+        "gem": 5,
+        "mansion": 2,
+        "yacht": 2,
+        "weed_seed": 0,
+        "fertilizer": 0
+      },
+      "level": 1,
+      "exp": 1050,
+      "completedMissions": [
+        "daily_work"
+      ],
+      "stocks": {},
+      "businesses": {
+        "factory": 4,
+        "casino": 1
+      },
+      "lastMission": 1778923940077,
+      "lastSearch": 0,
+      "lastTask": 0,
+      "lastCollect": 0,
+      "lastPlant": 1779007795058,
+      "lastPrisonCheck": 0,
+      "drugInventory": {
+        "weed": 60000
+      },
+      "crops": {
+        "weed": 0
+      },
+      "role": "cop",
+      "drugStats": {
+        "seedsBought": 50000,
+        "materialsBought": 0,
+        "grown": 50000,
+        "harvested": 60000,
+        "sold": 0,
+        "consumed": 0,
+        "busts": 1,
+        "arrests": 0,
+        "profit": 0
+      },
+      "jailRelease": 0,
+      "roleLevel": 1,
+      "roleExp": 0,
+      "businessSlots": 3,
+      "businessWallets": {},
+      "lastBust": 0
+    },
+    "119551169667082@lid": {
+      "wallet": 500,
+      "bank": 0,
+      "job": "unemployed",
+      "lastWork": 0,
+      "lastRob": 0,
+      "lastInvest": 0,
+      "inventory": {},
+      "level": 1,
+      "exp": 0,
+      "completedMissions": [],
+      "stocks": {},
+      "businesses": {},
+      "lastMission": 0
+    },
+    "": {
+      "wallet": 156,
+      "bank": 0,
+      "job": "programmer",
+      "lastWork": 1778963976920,
+      "lastRob": 1778966144281,
+      "lastInvest": 1778963826631,
+      "inventory": {},
+      "level": 1,
+      "exp": 160,
+      "completedMissions": [],
+      "stocks": {},
+      "businesses": {},
+      "lastMission": 0,
+      "lastSearch": 0,
+      "lastTask": 0,
+      "lastCollect": 0,
+      "lastPlant": 0,
+      "lastPrisonCheck": 0,
+      "drugInventory": {},
+      "crops": {},
+      "role": "citizen",
+      "drugStats": {
+        "seedsBought": 0,
+        "materialsBought": 0,
+        "grown": 0,
+        "harvested": 0,
+        "sold": 0,
+        "consumed": 0,
+        "busts": 0,
+        "arrests": 0,
+        "profit": 0
+      },
+      "jailRelease": 0,
+      "roleLevel": 1,
+      "roleExp": 0,
+      "lastBust": 0,
+      "businessSlots": 3,
+      "businessWallets": {}
+    },
+    "@all": {
+      "wallet": 213,
+      "bank": 0,
+      "job": "unemployed",
+      "lastWork": 0,
+      "lastRob": 0,
+      "lastInvest": 0,
+      "inventory": {},
+      "level": 1,
+      "exp": 0,
+      "completedMissions": [],
+      "stocks": {},
+      "businesses": {},
+      "lastMission": 0,
+      "lastSearch": 0,
+      "lastTask": 0,
+      "lastCollect": 0,
+      "lastBust": 0,
+      "lastPlant": 0,
+      "lastPrisonCheck": 0,
+      "drugInventory": {},
+      "crops": {},
+      "role": "citizen",
+      "drugStats": {
+        "seedsBought": 0,
+        "materialsBought": 0,
+        "grown": 0,
+        "harvested": 0,
+        "sold": 0,
+        "consumed": 0,
+        "busts": 0,
+        "arrests": 0,
+        "profit": 0
+      },
+      "jailRelease": 0,
+      "roleLevel": 1,
+      "roleExp": 0,
+      "businessSlots": 3,
+      "businessWallets": {}
+    },
+    "19169093402717@lid": {
+      "wallet": 0,
+      "bank": 20000000,
+      "job": "programmer",
+      "lastWork": 1779045646218,
+      "lastRob": 1778962369706,
+      "lastInvest": 1778966305784,
+      "inventory": {
+        "ticket": 1002,
+        "weed_seed": 5400,
+        "keto_chem": 0,
+        "fertilizer": 0,
+        "car": 1,
+        "laptop": 1,
+        "mansion": 1,
+        "heroin_kit": 0
+      },
+      "level": 1,
+      "exp": 1235,
+      "completedMissions": [
+        "invest_gain",
+        "gamble_lucky"
+      ],
+      "stocks": {},
+      "businesses": {
+        "shop": 1,
+        "factory": 2,
+        "casino": 2
+      },
+      "lastMission": 1779003745051,
+      "lastSearch": 0,
+      "lastTask": 0,
+      "lastCollect": 1779003861270,
+      "lastPlant": 1778969949497,
+      "lastPrisonCheck": 0,
+      "drugInventory": {
+        "weed": 0
+      },
+      "crops": {
+        "weed": 0,
+        "coke": 1,
+        "heroin": 3000
+      },
+      "role": "dealer",
+      "jailRelease": 1778968745454,
+      "roleLevel": 1,
+      "roleExp": 0,
+      "drugStats": {
+        "seedsBought": 9202,
+        "materialsBought": 0,
+        "grown": 3802,
+        "harvested": 961,
+        "sold": 961,
+        "consumed": 0,
+        "busts": 0,
+        "arrests": 2,
+        "profit": 145939
+      },
+      "lastBust": 0,
+      "businessSlots": 3,
+      "businessWallets": {
+        "shop": 30,
+        "factory": 300,
+        "casino": 600
+      }
+    },
+    "95357384003599@lid": {
+      "wallet": 1248,
+      "bank": 0,
+      "job": "programmer",
+      "lastWork": 1779113308561,
+      "lastRob": 1779111410714,
+      "lastInvest": 0,
+      "inventory": {
+        "ticket": 35205638
+      },
+      "level": 1,
+      "exp": 100,
+      "completedMissions": [
+        "rob_success"
+      ],
+      "stocks": {},
+      "businesses": {},
+      "lastMission": 1779113296411,
+      "lastSearch": 0,
+      "lastTask": 0,
+      "lastCollect": 0,
+      "lastBust": 0,
+      "lastPlant": 0,
+      "lastPrisonCheck": 0,
+      "drugInventory": {},
+      "crops": {},
+      "role": "citizen",
+      "drugStats": {
+        "seedsBought": 0,
+        "materialsBought": 0,
+        "grown": 0,
+        "harvested": 0,
+        "sold": 0,
+        "consumed": 0,
+        "busts": 0,
+        "arrests": 0,
+        "profit": 0
+      },
+      "jailRelease": 0,
+      "roleLevel": 1,
+      "roleExp": 0,
+      "businessSlots": 3,
+      "businessWallets": {}
+    },
+    "134536260227324@lid": {
+      "wallet": 0,
+      "bank": 0,
+      "job": "programmer",
+      "lastWork": 1779034867395,
+      "lastRob": 0,
+      "lastInvest": 0,
+      "inventory": {},
+      "level": 1,
+      "exp": 0,
+      "completedMissions": [],
+      "stocks": {},
+      "businesses": {},
+      "lastMission": 0,
+      "lastSearch": 0,
+      "lastTask": 0,
+      "lastCollect": 0,
+      "lastBust": 0,
+      "lastPlant": 0,
+      "lastPrisonCheck": 0,
+      "drugInventory": {},
+      "crops": {},
+      "role": "citizen",
+      "drugStats": {
+        "seedsBought": 0,
+        "materialsBought": 0,
+        "grown": 0,
+        "harvested": 0,
+        "sold": 0,
+        "consumed": 0,
+        "busts": 0,
+        "arrests": 0,
+        "profit": 0
+      },
+      "jailRelease": 0,
+      "roleLevel": 1,
+      "roleExp": 0,
+      "businessSlots": 3,
+      "businessWallets": {}
+    },
+    "61959298900062@lid": {
+      "wallet": 1000,
+      "bank": 0,
+      "job": "unemployed",
+      "lastWork": 0,
+      "lastRob": 0,
+      "lastInvest": 0,
+      "inventory": {},
+      "level": 1,
+      "exp": 0,
+      "completedMissions": [],
+      "stocks": {},
+      "businesses": {},
+      "lastMission": 0
+    },
+    "@s.whatsapp.net": {
+      "wallet": 0,
+      "bank": 0,
+      "job": "unemployed",
+      "lastWork": 0,
+      "lastRob": 0,
+      "lastInvest": 0,
+      "inventory": {},
+      "level": 1,
+      "exp": 0,
+      "completedMissions": [],
+      "stocks": {},
+      "businesses": {},
+      "lastMission": 0
+    },
+    "242339754840314@lid": {
+      "wallet": 104,
+      "bank": 424156849,
+      "job": "programmer",
+      "lastWork": 1779113229562,
+      "lastRob": 1779113830088,
+      "lastInvest": 1779014602673,
+      "lastSearch": 1779014578334,
+      "lastTask": 1779038548844,
+      "lastCollect": 0,
+      "lastPlant": 1779041463039,
+      "lastPrisonCheck": 0,
+      "inventory": {
+        "keto_chem": 0,
+        "fertilizer": 0,
+        "ticket": 0,
+        "heroin_kit": 0
+      },
+      "drugInventory": {
+        "coke": 0,
+        "heroin": 0
+      },
+      "crops": {
+        "coke": 0,
+        "heroin": 0
+      },
+      "role": "cop",
+      "drugStats": {
+        "seedsBought": 25,
+        "materialsBought": 0,
+        "grown": 25,
+        "harvested": 16,
+        "sold": 8,
+        "consumed": 0,
+        "busts": 0,
+        "arrests": 1,
+        "profit": 6369
+      },
+      "jailRelease": 1779019149325,
+      "roleLevel": 1,
+      "roleExp": 0,
+      "level": 1,
+      "exp": 240,
+      "completedMissions": [
+        "invest_gain"
+      ],
+      "stocks": {},
+      "businesses": {},
+      "lastMission": 1779014693532,
+      "lastBust": 1779017459868,
+      "businessSlots": 3,
+      "businessWallets": {}
+    },
+    "1@s.whatsapp.net": {
+      "wallet": 0,
+      "bank": 0,
+      "job": "unemployed",
+      "lastWork": 0,
+      "lastRob": 0,
+      "lastInvest": 0,
+      "lastSearch": 0,
+      "lastTask": 0,
+      "lastCollect": 0,
+      "lastPlant": 0,
+      "lastPrisonCheck": 0,
+      "inventory": {},
+      "drugInventory": {},
+      "crops": {},
+      "role": "citizen",
+      "drugStats": {
+        "seedsBought": 0,
+        "materialsBought": 0,
+        "grown": 0,
+        "harvested": 0,
+        "sold": 0,
+        "consumed": 0,
+        "busts": 0,
+        "arrests": 0,
+        "profit": 0
+      },
+      "jailRelease": 0,
+      "roleLevel": 1,
+      "roleExp": 0,
+      "level": 1,
+      "exp": 0,
+      "completedMissions": [],
+      "stocks": {},
+      "businesses": {},
+      "lastMission": 0
+    },
+    "126847782223928@lid": {
+      "wallet": 0,
+      "bank": 0,
+      "job": "unemployed",
+      "lastWork": 0,
+      "lastRob": 0,
+      "lastInvest": 0,
+      "lastSearch": 0,
+      "lastTask": 0,
+      "lastCollect": 0,
+      "lastBust": 0,
+      "lastPlant": 0,
+      "lastPrisonCheck": 0,
+      "inventory": {},
+      "drugInventory": {},
+      "crops": {},
+      "role": "citizen",
+      "drugStats": {
+        "seedsBought": 0,
+        "materialsBought": 0,
+        "grown": 0,
+        "harvested": 0,
+        "sold": 0,
+        "consumed": 0,
+        "busts": 0,
+        "arrests": 0,
+        "profit": 0
+      },
+      "jailRelease": 0,
+      "roleLevel": 1,
+      "roleExp": 0,
+      "level": 1,
+      "exp": 0,
+      "completedMissions": [],
+      "stocks": {},
+      "businesses": {},
+      "businessSlots": 3,
+      "businessWallets": {},
+      "lastMission": 0
+    },
+    "78989079142402@lid": {
+      "wallet": 0,
+      "bank": 1621,
+      "job": "programmer",
+      "lastWork": 1779113730345,
+      "lastRob": 0,
+      "lastInvest": 0,
+      "lastSearch": 0,
+      "lastTask": 1779113735772,
+      "lastCollect": 0,
+      "lastBust": 0,
+      "lastPlant": 0,
+      "lastPrisonCheck": 0,
+      "inventory": {
+        "keto_chem": 10
+      },
+      "drugInventory": {},
+      "crops": {},
+      "role": "citizen",
+      "drugStats": {
+        "seedsBought": 10,
+        "materialsBought": 0,
+        "grown": 0,
+        "harvested": 0,
+        "sold": 0,
+        "bought": 0,
+        "spent": 0,
+        "offersCreated": 0,
+        "offersCanceled": 0,
+        "consumed": 0,
+        "busts": 0,
+        "arrests": 0,
+        "profit": 0
+      },
+      "jailRelease": 0,
+      "roleLevel": 1,
+      "roleExp": 0,
+      "level": 1,
+      "exp": 75,
+      "completedMissions": [
+        "gamble_lucky"
+      ],
+      "stocks": {},
+      "businesses": {},
+      "businessSlots": 3,
+      "businessWallets": {},
+      "lastMission": 1779024246924
+    },
+    "173358519951588@lid": {
+      "wallet": 10000,
+      "bank": 0,
+      "job": "unemployed",
+      "lastWork": 0,
+      "lastRob": 0,
+      "lastInvest": 0,
+      "lastSearch": 0,
+      "lastTask": 0,
+      "lastCollect": 0,
+      "lastBust": 0,
+      "lastPlant": 0,
+      "lastPrisonCheck": 0,
+      "inventory": {},
+      "drugInventory": {},
+      "crops": {},
+      "role": "citizen",
+      "drugStats": {
+        "seedsBought": 0,
+        "materialsBought": 0,
+        "grown": 0,
+        "harvested": 0,
+        "sold": 0,
+        "bought": 0,
+        "spent": 0,
+        "offersCreated": 0,
+        "offersCanceled": 0,
+        "consumed": 0,
+        "busts": 0,
+        "arrests": 0,
+        "profit": 0
+      },
+      "jailRelease": 0,
+      "roleLevel": 1,
+      "roleExp": 0,
+      "level": 1,
+      "exp": 0,
+      "completedMissions": [],
+      "stocks": {},
+      "businesses": {},
+      "businessSlots": 3,
+      "businessWallets": {},
+      "lastMission": 0
+    },
+    "83966812024932@lid": {
+      "wallet": 100000000,
+      "bank": 0,
+      "job": "unemployed",
+      "lastWork": 0,
+      "lastRob": 0,
+      "lastInvest": 0,
+      "lastSearch": 0,
+      "lastTask": 0,
+      "lastCollect": 0,
+      "lastBust": 0,
+      "lastPlant": 0,
+      "lastPrisonCheck": 0,
+      "inventory": {},
+      "drugInventory": {},
+      "crops": {},
+      "role": "citizen",
+      "drugStats": {
+        "seedsBought": 0,
+        "materialsBought": 0,
+        "grown": 0,
+        "harvested": 0,
+        "sold": 0,
+        "bought": 0,
+        "spent": 0,
+        "offersCreated": 0,
+        "offersCanceled": 0,
+        "consumed": 0,
+        "busts": 0,
+        "arrests": 0,
+        "profit": 0
+      },
+      "jailRelease": 0,
+      "roleLevel": 1,
+      "roleExp": 0,
+      "level": 1,
+      "exp": 0,
+      "completedMissions": [],
+      "stocks": {},
+      "businesses": {},
+      "businessSlots": 3,
+      "businessWallets": {},
+      "lastMission": 0
+    },
+    "242085898776627@lid": {
+      "wallet": 8001,
+      "bank": 0,
+      "job": "unemployed",
+      "lastWork": 0,
+      "lastRob": 0,
+      "lastInvest": 0,
+      "lastSearch": 0,
+      "lastTask": 0,
+      "lastCollect": 0,
+      "lastBust": 0,
+      "lastPlant": 0,
+      "lastPrisonCheck": 0,
+      "inventory": {},
+      "drugInventory": {},
+      "crops": {},
+      "role": "citizen",
+      "drugStats": {
+        "seedsBought": 0,
+        "materialsBought": 0,
+        "grown": 0,
+        "harvested": 0,
+        "sold": 0,
+        "bought": 0,
+        "spent": 0,
+        "offersCreated": 0,
+        "offersCanceled": 0,
+        "consumed": 0,
+        "busts": 0,
+        "arrests": 0,
+        "profit": 0
+      },
+      "jailRelease": 0,
+      "roleLevel": 1,
+      "roleExp": 0,
+      "level": 1,
+      "exp": 0,
+      "completedMissions": [],
+      "stocks": {},
+      "businesses": {},
+      "businessSlots": 3,
+      "businessWallets": {},
+      "lastMission": 0
+    },
+    "79422686236889@lid": {
+      "wallet": 985550,
+      "bank": 0,
+      "job": "unemployed",
+      "lastWork": 0,
+      "lastRob": 0,
+      "lastInvest": 0,
+      "lastSearch": 0,
+      "lastTask": 0,
+      "lastCollect": 0,
+      "lastBust": 0,
+      "lastPlant": 0,
+      "lastPrisonCheck": 0,
+      "inventory": {},
+      "drugInventory": {},
+      "crops": {},
+      "role": "citizen",
+      "drugStats": {
+        "seedsBought": 0,
+        "materialsBought": 0,
+        "grown": 0,
+        "harvested": 0,
+        "sold": 0,
+        "bought": 0,
+        "spent": 0,
+        "offersCreated": 0,
+        "offersCanceled": 0,
+        "consumed": 0,
+        "busts": 0,
+        "arrests": 0,
+        "profit": 0
+      },
+      "jailRelease": 0,
+      "roleLevel": 1,
+      "roleExp": 0,
+      "level": 1,
+      "exp": 0,
+      "completedMissions": [],
+      "stocks": {},
+      "businesses": {},
+      "businessSlots": 3,
+      "businessWallets": {},
+      "lastMission": 0
+    }
+  },
+  "warnings": {
+    "120363422966234617@g.us": {
+      "19169093402717@lid": 1
+    },
+    "120363407491210930@g.us": {
+      "245122373542139@lid": 2,
+      "228063333879845@lid": 1
+    },
+    "120363428308805065@g.us": {
+      "45329470767319@lid": 1
+    }
+  },
+  "groups": {
+    "120363428308805065@g.us": {
+      "antiLink": false,
+      "welcome": true,
+      "welcomeMessage": "hallo neuer mach !Menu um zu starten(!drugmenu ist krass )"
+    },
+    "120363422966234617@g.us": {
+      "antiLink": false,
+      "welcome": true,
+      "welcomeMessage": "guten Tag du gooner mach ! Menu"
+    },
+    "status@broadcast": {
+      "antiLink": false,
+      "welcome": false
+    },
+    "120363417280805137@g.us": {
+      "antiLink": false,
+      "welcome": false
+    },
+    "15084559840@s.whatsapp.net": {
+      "antiLink": false,
+      "welcome": false
+    },
+    "120363407491210930@g.us": {
+      "antiLink": false,
+      "welcome": true,
+      "welcomeMessage": "Bastard"
+    },
+    "120363424407912793@g.us": {
+      "antiLink": false,
+      "welcome": false
+    },
+    "120363425159896654@g.us": {
+      "antiLink": false,
+      "welcome": false
+    },
+    "120363408348350754@g.us": {
+      "antiLink": false,
+      "welcome": false
+    },
+    "120363424404601261@newsletter": {
+      "antiLink": false,
+      "welcome": false
+    },
+    "120363421706719198@g.us": {
+      "antiLink": false,
+      "welcome": false
+    },
+    "242339754840314@lid": {
+      "antiLink": false,
+      "welcome": false
+    },
+    "69428364488911@lid": {
+      "antiLink": false,
+      "welcome": false
+    },
+    "120363404990309636@newsletter": {
+      "antiLink": false,
+      "welcome": false
+    },
+    "275960540713134@lid": {
+      "antiLink": false,
+      "welcome": false
+    },
+    "120363407036691679@g.us": {
+      "antiLink": false,
+      "welcome": false
+    },
+    "120363424567134679@g.us": {
+      "antiLink": false,
+      "welcome": false
+    },
+    "120363424273778511@g.us": {
+      "antiLink": false,
+      "welcome": false
+    },
+    "120363425438252133@g.us": {
+      "antiLink": false,
+      "welcome": false
+    },
+    "78989079142402@lid": {
+      "antiLink": false,
+      "welcome": false
+    },
+    "120363408471656809@newsletter": {
+      "antiLink": false,
+      "welcome": false
+    },
+    "120363425659759680@newsletter": {
+      "antiLink": false,
+      "welcome": false
+    },
+    "42155489915095@lid": {
+      "antiLink": false,
+      "welcome": false
+    },
+    "95357384003599@lid": {
+      "antiLink": false,
+      "welcome": false
+    },
+    "120363425695141395@g.us": {
+      "antiLink": false,
+      "welcome": false
+    }
+  },
+  "daily": {
+    "42155489915095@lid": 1779000327237,
+    "45329470767319@lid": 1779113998667,
+    "105364540416182@lid": 1778919394579,
+    "19169093402717@lid": 1778958231444,
+    "69428364488911@lid": 1779024201331,
+    "242339754840314@lid": 1779014542034,
+    "78989079142402@lid": 1779113860662
+  },
+  "drugLog": [
+    {
+      "time": 1778960194775,
+      "userId": "42155489915095@lid",
+      "type": "grow",
+      "details": "1x Weed gepflanzt"
+    },
+    {
+      "time": 1778960760758,
+      "userId": "69428364488911@lid",
+      "type": "harvest",
+      "details": "1x Weed geerntet"
+    },
+    {
+      "time": 1778960775782,
+      "userId": "69428364488911@lid",
+      "type": "buy_seeds",
+      "details": "100x Cannabis Samen für 15.000₽"
+    },
+    {
+      "time": 1778961617776,
+      "userId": "19169093402717@lid",
+      "type": "buy_seeds",
+      "details": "1x Cannabis Samen für 150₽"
+    },
+    {
+      "time": 1778961639078,
+      "userId": "19169093402717@lid",
+      "type": "grow",
+      "details": "1x Weed gepflanzt"
+    },
+    {
+      "time": 1778961653104,
+      "userId": "42155489915095@lid",
+      "type": "harvest",
+      "details": "2x Weed geerntet"
+    },
+    {
+      "time": 1778961681570,
+      "userId": "42155489915095@lid",
+      "type": "consume",
+      "details": "1x Weed konsumiert"
+    },
+    {
+      "time": 1778961705861,
+      "userId": "19169093402717@lid",
+      "type": "buy_seeds",
+      "details": "1x Keto Chemikalien für 500₽"
+    },
+    {
+      "time": 1778961725576,
+      "userId": "19169093402717@lid",
+      "type": "grow",
+      "details": "1x Kokain gepflanzt"
+    },
+    {
+      "time": 1778962095999,
+      "userId": "42155489915095@lid",
+      "type": "buy_seeds",
+      "details": "1000x Cannabis Samen für 150.000₽"
+    },
+    {
+      "time": 1778962139810,
+      "userId": "42155489915095@lid",
+      "type": "buy_seeds",
+      "details": "1000x Keto Chemikalien für 500.000₽"
+    },
+    {
+      "time": 1778962159826,
+      "userId": "42155489915095@lid",
+      "type": "buy_seeds",
+      "details": "1000x Heroin Kit für 900.000₽"
+    },
+    {
+      "time": 1778962174036,
+      "userId": "46390277320772@lid",
+      "type": "bust",
+      "details": "@19169093402717 festgenommen"
+    },
+    {
+      "time": 1778962174413,
+      "userId": "42155489915095@lid",
+      "type": "grow",
+      "details": "1000x Weed gepflanzt"
+    },
+    {
+      "time": 1778962233426,
+      "userId": "42155489915095@lid",
+      "type": "grow",
+      "details": "1000x Kokain gepflanzt"
+    },
+    {
+      "time": 1778962241893,
+      "userId": "42155489915095@lid",
+      "type": "grow",
+      "details": "1000x Heroin gepflanzt"
+    },
+    {
+      "time": 1778962942565,
+      "userId": "69428364488911@lid",
+      "type": "consume",
+      "details": "1x Weed konsumiert"
+    },
+    {
+      "time": 1778963449259,
+      "userId": "42155489915095@lid",
+      "type": "harvest",
+      "details": "1200x Weed geerntet"
+    },
+    {
+      "time": 1778963497794,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "100x Weed verkauft und erwischt"
+    },
+    {
+      "time": 1778963671985,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "100x Weed verkauft und erwischt"
+    },
+    {
+      "time": 1778963695111,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "100x Weed verkauft und erwischt"
+    },
+    {
+      "time": 1778963709978,
+      "userId": "19169093402717@lid",
+      "type": "harvest",
+      "details": "1x Weed geerntet"
+    },
+    {
+      "time": 1778963865436,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "100x Weed verkauft und erwischt"
+    },
+    {
+      "time": 1778963982475,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Weed verkauft für 13.278₽"
+    },
+    {
+      "time": 1778964025072,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Weed verkauft für 13.728₽"
+    },
+    {
+      "time": 1778964397178,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "300x Weed verkauft für 40.039₽"
+    },
+    {
+      "time": 1778964697653,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Weed verkauft für 12.802₽"
+    },
+    {
+      "time": 1778964747426,
+      "userId": "19169093402717@lid",
+      "type": "sell",
+      "details": "1x Weed verkauft für 140₽"
+    },
+    {
+      "time": 1778964866547,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Weed verkauft für 122₽"
+    },
+    {
+      "time": 1778964877474,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Weed verkauft für 131₽"
+    },
+    {
+      "time": 1778964879884,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Weed verkauft für 131₽"
+    },
+    {
+      "time": 1778964882395,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Weed verkauft für 119₽"
+    },
+    {
+      "time": 1778964884128,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Weed verkauft für 130₽"
+    },
+    {
+      "time": 1778964886128,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Weed verkauft für 137₽"
+    },
+    {
+      "time": 1778964892631,
+      "userId": "19169093402717@lid",
+      "type": "buy_seeds",
+      "details": "500x Cannabis Samen für 75.000₽"
+    },
+    {
+      "time": 1778964904513,
+      "userId": "19169093402717@lid",
+      "type": "grow",
+      "details": "500x Weed gepflanzt"
+    },
+    {
+      "time": 1778964915966,
+      "userId": "42155489915095@lid",
+      "type": "harvest",
+      "details": "990x Kokain geerntet"
+    },
+    {
+      "time": 1778965002000,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Weed verkauft für 124₽"
+    },
+    {
+      "time": 1778965004356,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Weed verkauft für 114₽"
+    },
+    {
+      "time": 1778965006711,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Weed verkauft für 123₽"
+    },
+    {
+      "time": 1778965008839,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Weed verkauft für 126₽"
+    },
+    {
+      "time": 1778965092199,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Weed verkauft für 134₽"
+    },
+    {
+      "time": 1778965094269,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Weed verkauft für 133₽"
+    },
+    {
+      "time": 1778965096595,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Weed verkauft für 118₽"
+    },
+    {
+      "time": 1778965098669,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Weed verkauft für 122₽"
+    },
+    {
+      "time": 1778965100713,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Weed verkauft für 117₽"
+    },
+    {
+      "time": 1778965102814,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Weed verkauft für 135₽"
+    },
+    {
+      "time": 1778965104912,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Weed verkauft für 128₽"
+    },
+    {
+      "time": 1778965241396,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Weed verkauft für 119₽"
+    },
+    {
+      "time": 1778965243959,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Weed verkauft für 122₽"
+    },
+    {
+      "time": 1778965247852,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Weed verkauft für 120₽"
+    },
+    {
+      "time": 1778965250225,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Weed verkauft für 116₽"
+    },
+    {
+      "time": 1778965252945,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Weed verkauft für 119₽"
+    },
+    {
+      "time": 1778965261186,
+      "userId": "69428364488911@lid",
+      "type": "buy_seeds",
+      "details": "1000x Cannabis Samen für 150.000₽"
+    },
+    {
+      "time": 1778965272434,
+      "userId": "69428364488911@lid",
+      "type": "grow",
+      "details": "1x Weed gepflanzt"
+    },
+    {
+      "time": 1778965280432,
+      "userId": "69428364488911@lid",
+      "type": "grow",
+      "details": "999x Weed gepflanzt"
+    },
+    {
+      "time": 1778965304789,
+      "userId": "69428364488911@lid",
+      "type": "buy_seeds",
+      "details": "1000x Keto Chemikalien für 500.000₽"
+    },
+    {
+      "time": 1778965314836,
+      "userId": "69428364488911@lid",
+      "type": "grow",
+      "details": "1000x Kokain gepflanzt"
+    },
+    {
+      "time": 1778965345109,
+      "userId": "69428364488911@lid",
+      "type": "buy_seeds",
+      "details": "1000x Heroin Kit für 900.000₽"
+    },
+    {
+      "time": 1778965359090,
+      "userId": "69428364488911@lid",
+      "type": "grow",
+      "details": "1000x Heroin gepflanzt"
+    },
+    {
+      "time": 1778965373833,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "1x Weed verkauft und erwischt"
+    },
+    {
+      "time": 1778965396347,
+      "userId": "242339754840314@lid",
+      "type": "buy_seeds",
+      "details": "1x Keto Chemikalien für 500₽"
+    },
+    {
+      "time": 1778965396380,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "1x Weed verkauft und erwischt"
+    },
+    {
+      "time": 1778965409157,
+      "userId": "242339754840314@lid",
+      "type": "grow",
+      "details": "1x Kokain gepflanzt"
+    },
+    {
+      "time": 1778965468928,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Weed verkauft für 116₽"
+    },
+    {
+      "time": 1778965475225,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "1x Weed verkauft und erwischt"
+    },
+    {
+      "time": 1778965512995,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "1x Weed verkauft und erwischt"
+    },
+    {
+      "time": 1778965579147,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "1x Weed verkauft und erwischt"
+    },
+    {
+      "time": 1778965590106,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "1x Weed verkauft und erwischt"
+    },
+    {
+      "time": 1778965638536,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "1x Weed verkauft und erwischt"
+    },
+    {
+      "time": 1778965771517,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Weed verkauft für 116₽"
+    },
+    {
+      "time": 1778965784389,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "170x Weed verkauft und erwischt"
+    },
+    {
+      "time": 1778965851744,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "800x Kokain verkauft und erwischt"
+    },
+    {
+      "time": 1778965895394,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "1x Kokain verkauft und erwischt"
+    },
+    {
+      "time": 1778965970428,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "1x Kokain verkauft und erwischt"
+    },
+    {
+      "time": 1778965988349,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "1x Kokain verkauft und erwischt"
+    },
+    {
+      "time": 1778966017327,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "1x Kokain verkauft und erwischt"
+    },
+    {
+      "time": 1778966082944,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "1x Kokain verkauft und erwischt"
+    },
+    {
+      "time": 1778966533225,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "1x Kokain verkauft und erwischt"
+    },
+    {
+      "time": 1778966543425,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "1x Kokain verkauft und erwischt"
+    },
+    {
+      "time": 1778966549833,
+      "userId": "19169093402717@lid",
+      "type": "buy_seeds",
+      "details": "300x Cannabis Samen für 45.000₽"
+    },
+    {
+      "time": 1778966556466,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Kokain verkauft für 442₽"
+    },
+    {
+      "time": 1778966560251,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Kokain verkauft für 426₽"
+    },
+    {
+      "time": 1778966574503,
+      "userId": "19169093402717@lid",
+      "type": "grow",
+      "details": "300x Weed gepflanzt"
+    },
+    {
+      "time": 1778966674237,
+      "userId": "105364540416182@lid",
+      "type": "buy_seeds",
+      "details": "50000x Cannabis Samen für 7.500.000₽"
+    },
+    {
+      "time": 1778966744094,
+      "userId": "42155489915095@lid",
+      "type": "harvest",
+      "details": "770x Heroin geerntet"
+    },
+    {
+      "time": 1778966761679,
+      "userId": "105364540416182@lid",
+      "type": "grow",
+      "details": "50000x Weed gepflanzt"
+    },
+    {
+      "time": 1778966770503,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Heroin verkauft für 93.365₽"
+    },
+    {
+      "time": 1778966788433,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Heroin verkauft für 97.903₽"
+    },
+    {
+      "time": 1778966798956,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Heroin verkauft für 95.097₽"
+    },
+    {
+      "time": 1778966820479,
+      "userId": "242339754840314@lid",
+      "type": "harvest",
+      "details": "0x Kokain geerntet"
+    },
+    {
+      "time": 1778967097460,
+      "userId": "19169093402717@lid",
+      "type": "buy_seeds",
+      "details": "400x Cannabis Samen für 60.000₽"
+    },
+    {
+      "time": 1778967123183,
+      "userId": "42155489915095@lid",
+      "type": "buy_seeds",
+      "details": "10000x Heroin Kit für 9.000.000₽"
+    },
+    {
+      "time": 1778967203071,
+      "userId": "42155489915095@lid",
+      "type": "grow",
+      "details": "10000x Heroin gepflanzt"
+    },
+    {
+      "time": 1778967245454,
+      "userId": "105364540416182@lid",
+      "type": "bust",
+      "details": "@19169093402717 festgenommen"
+    },
+    {
+      "time": 1778968395953,
+      "userId": "69428364488911@lid",
+      "type": "harvest",
+      "details": "1500x Weed geerntet"
+    },
+    {
+      "time": 1778968432720,
+      "userId": "42155489915095@lid",
+      "type": "harvest",
+      "details": "7700x Heroin geerntet"
+    },
+    {
+      "time": 1778968460862,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Heroin verkauft für 97.474₽"
+    },
+    {
+      "time": 1778968473025,
+      "userId": "69428364488911@lid",
+      "type": "sell",
+      "details": "250x Weed verkauft für 29.597₽"
+    },
+    {
+      "time": 1778968473660,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Heroin verkauft für 88.956₽"
+    },
+    {
+      "time": 1778968483714,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Heroin verkauft für 93.498₽"
+    },
+    {
+      "time": 1778968487001,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Heroin verkauft für 88.483₽"
+    },
+    {
+      "time": 1778968491511,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Heroin verkauft für 89.763₽"
+    },
+    {
+      "time": 1778968494774,
+      "userId": "69428364488911@lid",
+      "type": "sell",
+      "details": "250x Weed verkauft für 29.547₽"
+    },
+    {
+      "time": 1778968497842,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Heroin verkauft für 97.990₽"
+    },
+    {
+      "time": 1778968501429,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Heroin verkauft für 97.148₽"
+    },
+    {
+      "time": 1778968506753,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Heroin verkauft für 97.787₽"
+    },
+    {
+      "time": 1778968507781,
+      "userId": "69428364488911@lid",
+      "type": "sell",
+      "details": "250x Weed verkauft für 31.475₽"
+    },
+    {
+      "time": 1778968515252,
+      "userId": "69428364488911@lid",
+      "type": "sell",
+      "details": "250x Weed verkauft für 29.932₽"
+    },
+    {
+      "time": 1778968525502,
+      "userId": "69428364488911@lid",
+      "type": "sell_arrest",
+      "details": "250x Weed verkauft und erwischt"
+    },
+    {
+      "time": 1778968582866,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Heroin verkauft für 93.638₽"
+    },
+    {
+      "time": 1778968588051,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Heroin verkauft für 100.903₽"
+    },
+    {
+      "time": 1778968592267,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Heroin verkauft für 101.915₽"
+    },
+    {
+      "time": 1778968850671,
+      "userId": "19169093402717@lid",
+      "type": "harvest",
+      "details": "960x Weed geerntet"
+    },
+    {
+      "time": 1778968865559,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Kokain verkauft für 44.762₽"
+    },
+    {
+      "time": 1778968883495,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "81x Kokain verkauft für 33.122₽"
+    },
+    {
+      "time": 1778968902435,
+      "userId": "19169093402717@lid",
+      "type": "sell",
+      "details": "300x Weed verkauft für 45.511₽"
+    },
+    {
+      "time": 1778968912990,
+      "userId": "19169093402717@lid",
+      "type": "sell",
+      "details": "300x Weed verkauft für 44.187₽"
+    },
+    {
+      "time": 1778968924155,
+      "userId": "19169093402717@lid",
+      "type": "sell",
+      "details": "360x Weed verkauft für 56.101₽"
+    },
+    {
+      "time": 1778969206167,
+      "userId": "42155489915095@lid",
+      "type": "buy_seeds",
+      "details": "10000x Cannabis Samen für 1.500.000₽"
+    },
+    {
+      "time": 1778969219355,
+      "userId": "42155489915095@lid",
+      "type": "buy_seeds",
+      "details": "10000x Keto Chemikalien für 5.000.000₽"
+    },
+    {
+      "time": 1778969231969,
+      "userId": "42155489915095@lid",
+      "type": "buy_seeds",
+      "details": "10000x Heroin Kit für 9.000.000₽"
+    },
+    {
+      "time": 1778969248093,
+      "userId": "42155489915095@lid",
+      "type": "grow",
+      "details": "10000x Heroin gepflanzt"
+    },
+    {
+      "time": 1778969260342,
+      "userId": "42155489915095@lid",
+      "type": "grow",
+      "details": "10000x Weed gepflanzt"
+    },
+    {
+      "time": 1778969273957,
+      "userId": "42155489915095@lid",
+      "type": "grow",
+      "details": "10000x Kokain gepflanzt"
+    },
+    {
+      "time": 1778969885410,
+      "userId": "19169093402717@lid",
+      "type": "buy_seeds",
+      "details": "3000x Heroin Kit für 2.700.000₽"
+    },
+    {
+      "time": 1778969949497,
+      "userId": "19169093402717@lid",
+      "type": "grow",
+      "details": "3000x Heroin gepflanzt"
+    },
+    {
+      "time": 1778970528910,
+      "userId": "42155489915095@lid",
+      "type": "harvest",
+      "details": "7000x Heroin geerntet"
+    },
+    {
+      "time": 1778970560351,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1000x Heroin verkauft für 1.028.845₽"
+    },
+    {
+      "time": 1778970570896,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1000x Heroin verkauft für 1.182.037₽"
+    },
+    {
+      "time": 1778970574991,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1000x Heroin verkauft für 1.030.596₽"
+    },
+    {
+      "time": 1778970579386,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1000x Heroin verkauft für 1.061.838₽"
+    },
+    {
+      "time": 1778970588003,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1000x Heroin verkauft für 1.013.509₽"
+    },
+    {
+      "time": 1778970599981,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1000x Heroin verkauft für 1.083.144₽"
+    },
+    {
+      "time": 1778970750977,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Heroin verkauft für 1.120₽"
+    },
+    {
+      "time": 1778970756092,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Heroin verkauft für 1.126₽"
+    },
+    {
+      "time": 1778970760431,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Heroin verkauft für 1.026₽"
+    },
+    {
+      "time": 1778970765844,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Heroin verkauft für 1.150₽"
+    },
+    {
+      "time": 1778970769747,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1000x Heroin verkauft für 1.171.314₽"
+    },
+    {
+      "time": 1778970773594,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1000x Heroin verkauft für 1.072.455₽"
+    },
+    {
+      "time": 1778970791764,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1000x Heroin verkauft für 1.152.825₽"
+    },
+    {
+      "time": 1778970797714,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "1000x Heroin verkauft und erwischt"
+    },
+    {
+      "time": 1778970840928,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "1000x Heroin verkauft und erwischt"
+    },
+    {
+      "time": 1778970866164,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1000x Heroin verkauft für 1.113.443₽"
+    },
+    {
+      "time": 1778970871234,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1000x Heroin verkauft für 1.091.678₽"
+    },
+    {
+      "time": 1778970914109,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "1000x Heroin verkauft und erwischt"
+    },
+    {
+      "time": 1778970937123,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1x Heroin verkauft für 989₽"
+    },
+    {
+      "time": 1778970944672,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "10x Heroin verkauft für 10.322₽"
+    },
+    {
+      "time": 1778970953274,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "55x Heroin verkauft für 57.754₽"
+    },
+    {
+      "time": 1779000341585,
+      "userId": "42155489915095@lid",
+      "type": "harvest",
+      "details": "12000x Weed geerntet"
+    },
+    {
+      "time": 1779000381204,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Weed verkauft für 15.563₽"
+    },
+    {
+      "time": 1779001045390,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Weed verkauft für 15.155₽"
+    },
+    {
+      "time": 1779001063812,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "100x Weed verkauft und erwischt"
+    },
+    {
+      "time": 1779001439326,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Weed verkauft für 15.539₽"
+    },
+    {
+      "time": 1779001454206,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Weed verkauft für 13.805₽"
+    },
+    {
+      "time": 1779001458244,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Weed verkauft für 15.617₽"
+    },
+    {
+      "time": 1779001462489,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Weed verkauft für 14.131₽"
+    },
+    {
+      "time": 1779001466261,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Weed verkauft für 13.593₽"
+    },
+    {
+      "time": 1779001469675,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "100x Weed verkauft und erwischt"
+    },
+    {
+      "time": 1779001539481,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Weed verkauft für 14.974₽"
+    },
+    {
+      "time": 1779001543049,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Weed verkauft für 13.364₽"
+    },
+    {
+      "time": 1779001549148,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "10000x Weed verkauft für 1.483.979₽"
+    },
+    {
+      "time": 1779001557778,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "900x Weed verkauft für 131.547₽"
+    },
+    {
+      "time": 1779001814591,
+      "userId": "42155489915095@lid",
+      "type": "harvest",
+      "details": "9000x Kokain geerntet"
+    },
+    {
+      "time": 1779001865192,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1000x Kokain verkauft für 481.448₽"
+    },
+    {
+      "time": 1779001872229,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "1000x Kokain verkauft und erwischt"
+    },
+    {
+      "time": 1779003206679,
+      "userId": "69428364488911@lid",
+      "type": "harvest",
+      "details": "875x Heroin geerntet"
+    },
+    {
+      "time": 1779003209827,
+      "userId": "42155489915095@lid",
+      "type": "consume_overdose",
+      "details": "1x Kokain konsumiert und überdosiert"
+    },
+    {
+      "time": 1779003243373,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1000x Kokain verkauft für 529.267₽"
+    },
+    {
+      "time": 1779003254448,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1000x Kokain verkauft für 467.035₽"
+    },
+    {
+      "time": 1779003297294,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "1000x Kokain verkauft und erwischt"
+    },
+    {
+      "time": 1779003391725,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1000x Kokain verkauft für 540.139₽"
+    },
+    {
+      "time": 1779003395076,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1000x Kokain verkauft für 523.071₽"
+    },
+    {
+      "time": 1779003397946,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1000x Kokain verkauft für 473.325₽"
+    },
+    {
+      "time": 1779003404892,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "999x Kokain verkauft für 469.473₽"
+    },
+    {
+      "time": 1779003648710,
+      "userId": "19169093402717@lid",
+      "type": "buy_seeds",
+      "details": "5000x Cannabis Samen für 750.000₽"
+    },
+    {
+      "time": 1779003659899,
+      "userId": "69428364488911@lid",
+      "type": "sell",
+      "details": "875x Heroin verkauft für 866.188₽"
+    },
+    {
+      "time": 1779007795058,
+      "userId": "105364540416182@lid",
+      "type": "harvest",
+      "details": "60000x Weed geerntet"
+    },
+    {
+      "time": 1779008647534,
+      "userId": "42155489915095@lid",
+      "type": "buy_seeds",
+      "details": "10000x Heroin Kit für 9.000.000₽"
+    },
+    {
+      "time": 1779008655658,
+      "userId": "42155489915095@lid",
+      "type": "grow",
+      "details": "10000x Heroin gepflanzt"
+    },
+    {
+      "time": 1779013140953,
+      "userId": "42155489915095@lid",
+      "type": "harvest",
+      "details": "7000x Heroin geerntet"
+    },
+    {
+      "time": 1779013209526,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Heroin verkauft für 106.718₽"
+    },
+    {
+      "time": 1779013228386,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Heroin verkauft für 108.457₽"
+    },
+    {
+      "time": 1779013244285,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1000x Heroin verkauft für 1.156.141₽"
+    },
+    {
+      "time": 1779013249761,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1000x Heroin verkauft für 1.009.940₽"
+    },
+    {
+      "time": 1779013357445,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1000x Heroin verkauft für 1.167.613₽"
+    },
+    {
+      "time": 1779013363968,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1000x Heroin verkauft für 987.218₽"
+    },
+    {
+      "time": 1779013373280,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Heroin verkauft für 99.482₽"
+    },
+    {
+      "time": 1779013390081,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1000x Heroin verkauft für 1.104.462₽"
+    },
+    {
+      "time": 1779013402579,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "1000x Heroin verkauft und erwischt"
+    },
+    {
+      "time": 1779013520646,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Heroin verkauft für 115.795₽"
+    },
+    {
+      "time": 1779013526346,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "600x Heroin verkauft für 695.314₽"
+    },
+    {
+      "time": 1779014194944,
+      "userId": "242339754840314@lid",
+      "type": "buy_seeds",
+      "details": "2x Keto Chemikalien für 1.000₽"
+    },
+    {
+      "time": 1779014255295,
+      "userId": "242339754840314@lid",
+      "type": "grow",
+      "details": "2x Kokain gepflanzt"
+    },
+    {
+      "time": 1779014806994,
+      "userId": "42155489915095@lid",
+      "type": "buy_seeds",
+      "details": "1000x Heroin Kit für 900.000₽"
+    },
+    {
+      "time": 1779014815637,
+      "userId": "42155489915095@lid",
+      "type": "grow",
+      "details": "1000x Heroin gepflanzt"
+    },
+    {
+      "time": 1779015690336,
+      "userId": "242339754840314@lid",
+      "type": "harvest",
+      "details": "1x Kokain geerntet"
+    },
+    {
+      "time": 1779015757550,
+      "userId": "242339754840314@lid",
+      "type": "sell",
+      "details": "1x Kokain verkauft für 418₽"
+    },
+    {
+      "time": 1779015915189,
+      "userId": "242339754840314@lid",
+      "type": "buy_seeds",
+      "details": "1x Heroin Kit für 900₽"
+    },
+    {
+      "time": 1779015930701,
+      "userId": "242339754840314@lid",
+      "type": "buy_seeds",
+      "details": "1x Heroin Kit für 900₽"
+    },
+    {
+      "time": 1779015939851,
+      "userId": "242339754840314@lid",
+      "type": "buy_seeds",
+      "details": "10x Heroin Kit für 9.000₽"
+    },
+    {
+      "time": 1779015952845,
+      "userId": "242339754840314@lid",
+      "type": "grow",
+      "details": "12x Heroin gepflanzt"
+    },
+    {
+      "time": 1779016025075,
+      "userId": "42155489915095@lid",
+      "type": "harvest",
+      "details": "700x Heroin geerntet"
+    },
+    {
+      "time": 1779016036899,
+      "userId": "42155489915095@lid",
+      "type": "consume",
+      "details": "1x Heroin konsumiert"
+    },
+    {
+      "time": 1779016056731,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "100x Heroin verkauft und erwischt"
+    },
+    {
+      "time": 1779017160040,
+      "userId": "242339754840314@lid",
+      "type": "harvest",
+      "details": "8x Heroin geerntet"
+    },
+    {
+      "time": 1779017191352,
+      "userId": "242339754840314@lid",
+      "type": "sell_arrest",
+      "details": "8x Heroin verkauft und erwischt"
+    },
+    {
+      "time": 1779019229660,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "100x Heroin verkauft und erwischt"
+    },
+    {
+      "time": 1779019252050,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Heroin verkauft für 110.062₽"
+    },
+    {
+      "time": 1779019288097,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Heroin verkauft für 116.112₽"
+    },
+    {
+      "time": 1779019337325,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "100x Heroin verkauft für 99.830₽"
+    },
+    {
+      "time": 1779019346957,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "199x Heroin verkauft für 196.793₽"
+    },
+    {
+      "time": 1779019905466,
+      "userId": "42155489915095@lid",
+      "type": "buy_seeds",
+      "details": "100x Heroin Kit für 90.000₽"
+    },
+    {
+      "time": 1779019929511,
+      "userId": "42155489915095@lid",
+      "type": "grow",
+      "details": "100x Heroin gepflanzt"
+    },
+    {
+      "time": 1779021144802,
+      "userId": "42155489915095@lid",
+      "type": "harvest",
+      "details": "70x Heroin geerntet"
+    },
+    {
+      "time": 1779021402147,
+      "userId": "45329470767319@lid",
+      "type": "buy_seeds",
+      "details": "100x Cannabis Samen für 15.000₽"
+    },
+    {
+      "time": 1779021411492,
+      "userId": "207426200563894@lid",
+      "type": "buy_seeds",
+      "details": "100x Cannabis Samen für 15.000₽"
+    },
+    {
+      "time": 1779021450623,
+      "userId": "45329470767319@lid",
+      "type": "grow",
+      "details": "100x Weed gepflanzt"
+    },
+    {
+      "time": 1779021482598,
+      "userId": "207426200563894@lid",
+      "type": "grow",
+      "details": "100x Weed gepflanzt"
+    },
+    {
+      "time": 1779021588892,
+      "userId": "42155489915095@lid",
+      "type": "consume",
+      "details": "1x Heroin konsumiert"
+    },
+    {
+      "time": 1779022023914,
+      "userId": "207426200563894@lid",
+      "type": "buy_offer",
+      "details": "1x Heroin von 42155489915095 gekauft für 100₽"
+    },
+    {
+      "time": 1779022801306,
+      "userId": "42155489915095@lid",
+      "type": "consume",
+      "details": "1x Heroin konsumiert"
+    },
+    {
+      "time": 1779022817333,
+      "userId": "42155489915095@lid",
+      "type": "grow",
+      "details": "10000x Heroin gepflanzt"
+    },
+    {
+      "time": 1779022841250,
+      "userId": "207426200563894@lid",
+      "type": "harvest",
+      "details": "120x Weed geerntet"
+    },
+    {
+      "time": 1779022878501,
+      "userId": "69428364488911@lid",
+      "type": "buy_seeds",
+      "details": "1000x Cannabis Samen für 150.000₽"
+    },
+    {
+      "time": 1779022892108,
+      "userId": "69428364488911@lid",
+      "type": "buy_seeds",
+      "details": "1000x Keto Chemikalien für 500.000₽"
+    },
+    {
+      "time": 1779022899699,
+      "userId": "69428364488911@lid",
+      "type": "buy_seeds",
+      "details": "1000x Heroin Kit für 900.000₽"
+    },
+    {
+      "time": 1779022903901,
+      "userId": "69428364488911@lid",
+      "type": "grow",
+      "details": "1x Kokain gepflanzt"
+    },
+    {
+      "time": 1779022912439,
+      "userId": "69428364488911@lid",
+      "type": "grow",
+      "details": "1x Heroin gepflanzt"
+    },
+    {
+      "time": 1779022927241,
+      "userId": "69428364488911@lid",
+      "type": "grow",
+      "details": "999x Kokain gepflanzt"
+    },
+    {
+      "time": 1779022937315,
+      "userId": "69428364488911@lid",
+      "type": "grow",
+      "details": "999x Weed gepflanzt"
+    },
+    {
+      "time": 1779022995128,
+      "userId": "69428364488911@lid",
+      "type": "buy_seeds",
+      "details": "1000x Cannabis Samen für 150.000₽"
+    },
+    {
+      "time": 1779023001411,
+      "userId": "69428364488911@lid",
+      "type": "grow",
+      "details": "1000x Weed gepflanzt"
+    },
+    {
+      "time": 1779024597323,
+      "userId": "45329470767319@lid",
+      "type": "harvest",
+      "details": "120x Weed geerntet"
+    },
+    {
+      "time": 1779024737398,
+      "userId": "45329470767319@lid",
+      "type": "sell",
+      "details": "120x Weed verkauft für 13.797₽"
+    },
+    {
+      "time": 1779024765958,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "17x Heroin verkauft für 19.946₽"
+    },
+    {
+      "time": 1779025025832,
+      "userId": "45329470767319@lid",
+      "type": "buy_offer",
+      "details": "50x Heroin von 42155489915095 gekauft für 10.000₽"
+    },
+    {
+      "time": 1779025069341,
+      "userId": "42155489915095@lid",
+      "type": "buy_seeds",
+      "details": "10000x Heroin Kit für 9.000.000₽"
+    },
+    {
+      "time": 1779025091574,
+      "userId": "42155489915095@lid",
+      "type": "grow",
+      "details": "10000x Heroin gepflanzt"
+    },
+    {
+      "time": 1779025644901,
+      "userId": "207426200563894@lid",
+      "type": "buy_seeds",
+      "details": "100x Cannabis Samen für 15.000₽"
+    },
+    {
+      "time": 1779025698091,
+      "userId": "207426200563894@lid",
+      "type": "grow",
+      "details": "100x Weed gepflanzt"
+    },
+    {
+      "time": 1779026298958,
+      "userId": "42155489915095@lid",
+      "type": "harvest",
+      "details": "14000x Heroin geerntet"
+    },
+    {
+      "time": 1779026418127,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "5000x Heroin verkauft für 4.894.340₽"
+    },
+    {
+      "time": 1779032976229,
+      "userId": "242339754840314@lid",
+      "type": "buy_seeds",
+      "details": "10x Heroin Kit für 9.000₽"
+    },
+    {
+      "time": 1779032989410,
+      "userId": "242339754840314@lid",
+      "type": "grow",
+      "details": "10x Heroin gepflanzt"
+    },
+    {
+      "time": 1779033465431,
+      "userId": "78989079142402@lid",
+      "type": "buy_seeds",
+      "details": "10x Keto Chemikalien für 5.000₽"
+    },
+    {
+      "time": 1779033695978,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1000x Heroin verkauft für 1.074.821₽"
+    },
+    {
+      "time": 1779033703932,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1000x Heroin verkauft für 1.178.556₽"
+    },
+    {
+      "time": 1779033706842,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "1000x Heroin verkauft und erwischt"
+    },
+    {
+      "time": 1779033742471,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1000x Heroin verkauft für 1.068.264₽"
+    },
+    {
+      "time": 1779033747728,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1000x Heroin verkauft für 1.021.046₽"
+    },
+    {
+      "time": 1779033759322,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1000x Heroin verkauft für 1.044.543₽"
+    },
+    {
+      "time": 1779033763759,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1000x Heroin verkauft für 1.095.707₽"
+    },
+    {
+      "time": 1779033769151,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "1000x Heroin verkauft für 1.184.251₽"
+    },
+    {
+      "time": 1779033774168,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "300x Heroin verkauft für 349.270₽"
+    },
+    {
+      "time": 1779038221364,
+      "userId": "42155489915095@lid",
+      "type": "buy_seeds",
+      "details": "100000x Heroin Kit für 90.000.000₽"
+    },
+    {
+      "time": 1779038248686,
+      "userId": "42155489915095@lid",
+      "type": "grow",
+      "details": "100000x Heroin gepflanzt"
+    },
+    {
+      "time": 1779039506421,
+      "userId": "42155489915095@lid",
+      "type": "harvest",
+      "details": "70000x Heroin geerntet"
+    },
+    {
+      "time": 1779041311077,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "10000x Heroin verkauft für 11.643.953₽"
+    },
+    {
+      "time": 1779041317956,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "10000x Heroin verkauft für 11.076.748₽"
+    },
+    {
+      "time": 1779041321891,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "10000x Heroin verkauft für 11.705.149₽"
+    },
+    {
+      "time": 1779041325532,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "10000x Heroin verkauft für 10.139.194₽"
+    },
+    {
+      "time": 1779041329200,
+      "userId": "42155489915095@lid",
+      "type": "sell_arrest",
+      "details": "10000x Heroin verkauft und erwischt"
+    },
+    {
+      "time": 1779041355521,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "10000x Heroin verkauft für 10.303.385₽"
+    },
+    {
+      "time": 1779041359312,
+      "userId": "42155489915095@lid",
+      "type": "sell",
+      "details": "10000x Heroin verkauft für 11.048.533₽"
+    },
+    {
+      "time": 1779041456177,
+      "userId": "42155489915095@lid",
+      "type": "buy_seeds",
+      "details": "1000000x Heroin Kit für 900.000.000₽"
+    },
+    {
+      "time": 1779041463039,
+      "userId": "242339754840314@lid",
+      "type": "harvest",
+      "details": "7x Heroin geerntet"
+    },
+    {
+      "time": 1779041469699,
+      "userId": "42155489915095@lid",
+      "type": "grow",
+      "details": "1000000x Heroin gepflanzt"
+    },
+    {
+      "time": 1779041489158,
+      "userId": "242339754840314@lid",
+      "type": "sell",
+      "details": "7x Heroin verkauft für 5.951₽"
+    },
+    {
+      "time": 1779043319882,
+      "userId": "45329470767319@lid",
+      "type": "buy_offer",
+      "details": "100x Heroin von 42155489915095 gekauft für 100.000₽"
+    },
+    {
+      "time": 1779045387598,
+      "userId": "45329470767319@lid",
+      "type": "buy_seeds",
+      "details": "100x Cannabis Samen für 15.000₽"
+    },
+    {
+      "time": 1779045402235,
+      "userId": "45329470767319@lid",
+      "type": "grow",
+      "details": "100x Weed gepflanzt"
+    },
+    {
+      "time": 1779045424125,
+      "userId": "45329470767319@lid",
+      "type": "buy_seeds",
+      "details": "10000x Cannabis Samen für 1.500.000₽"
+    },
+    {
+      "time": 1779045440221,
+      "userId": "45329470767319@lid",
+      "type": "grow",
+      "details": "10000x Weed gepflanzt"
+    },
+    {
+      "time": 1779047322987,
+      "userId": "45329470767319@lid",
+      "type": "harvest",
+      "details": "15150x Weed geerntet"
+    },
+    {
+      "time": 1779047337316,
+      "userId": "45329470767319@lid",
+      "type": "consume",
+      "details": "1x Weed konsumiert"
+    },
+    {
+      "time": 1779047370752,
+      "userId": "45329470767319@lid",
+      "type": "buy_offer",
+      "details": "100x Heroin von 42155489915095 gekauft für 100.000₽"
+    },
+    {
+      "time": 1779047703069,
+      "userId": "45329470767319@lid",
+      "type": "consume",
+      "details": "1x Heroin konsumiert"
+    },
+    {
+      "time": 1779047821131,
+      "userId": "42155489915095@lid",
+      "type": "buy_seeds",
+      "details": "100000x Cannabis Samen für 15.000.000₽"
+    },
+    {
+      "time": 1779047827662,
+      "userId": "45329470767319@lid",
+      "type": "buy_seeds",
+      "details": "100000x Cannabis Samen für 15.000.000₽"
+    },
+    {
+      "time": 1779047846001,
+      "userId": "45329470767319@lid",
+      "type": "buy_seeds",
+      "details": "100000x Cannabis Samen für 15.000.000₽"
+    },
+    {
+      "time": 1779047856363,
+      "userId": "45329470767319@lid",
+      "type": "grow",
+      "details": "1x Weed gepflanzt"
+    },
+    {
+      "time": 1779047874887,
+      "userId": "45329470767319@lid",
+      "type": "grow",
+      "details": "199999x Weed gepflanzt"
+    },
+    {
+      "time": 1779049724625,
+      "userId": "45329470767319@lid",
+      "type": "harvest",
+      "details": "300000x Weed geerntet"
+    },
+    {
+      "time": 1779049750169,
+      "userId": "45329470767319@lid",
+      "type": "consume",
+      "details": "1x Weed konsumiert"
+    },
+    {
+      "time": 1779049806944,
+      "userId": "45329470767319@lid",
+      "type": "buy_seeds",
+      "details": "100000x Cannabis Samen für 15.000.000₽"
+    },
+    {
+      "time": 1779049824834,
+      "userId": "45329470767319@lid",
+      "type": "buy_seeds",
+      "details": "100000x Cannabis Samen für 15.000.000₽"
+    },
+    {
+      "time": 1779049832049,
+      "userId": "45329470767319@lid",
+      "type": "buy_seeds",
+      "details": "100000x Cannabis Samen für 15.000.000₽"
+    },
+    {
+      "time": 1779049841267,
+      "userId": "45329470767319@lid",
+      "type": "grow",
+      "details": "300000x Weed gepflanzt"
+    },
+    {
+      "time": 1779112136922,
+      "userId": "45329470767319@lid",
+      "type": "harvest",
+      "details": "450000x Weed geerntet"
+    }
+  ],
+  "drugOffers": [
+    {
+      "id": "YL6GMJ",
+      "seller": "42155489915095@lid",
+      "drug": "heroin",
+      "amount": 100,
+      "price": 100000,
+      "time": 1779026357274
+    },
+    {
+      "id": "1PBADD",
+      "seller": "42155489915095@lid",
+      "drug": "heroin",
+      "amount": 100,
+      "price": 100000,
+      "time": 1779026361311
+    },
+    {
+      "id": "41R4LW",
+      "seller": "42155489915095@lid",
+      "drug": "heroin",
+      "amount": 100,
+      "price": 100000,
+      "time": 1779026364351
+    },
+    {
+      "id": "A8P07Z",
+      "seller": "42155489915095@lid",
+      "drug": "heroin",
+      "amount": 100,
+      "price": 100000,
+      "time": 1779026372377
+    },
+    {
+      "id": "EXZ0B5",
+      "seller": "42155489915095@lid",
+      "drug": "heroin",
+      "amount": 100,
+      "price": 100000,
+      "time": 1779026378471
+    }
+  ]
+}
